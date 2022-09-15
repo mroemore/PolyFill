@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6.1</ApiVersion>
+  <Id>com.krang.PolyFill</Id>
+  <Version>0.1</Version>
+  <Author>krang</Author>
+  <Name>Advanced pattern generator</Name>
+  <Category>Patterns</Category>
+  <Description>A tool inspired by the pattern generation functionality of the polyend tracker.</Description>
+  <Homepage></Homepage>
+</RenoiseScriptingTool>
